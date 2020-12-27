@@ -1,5 +1,4 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-
 ___
 
 ### There is no greater thrill in life than running an app successfully with no errors. 🧠
