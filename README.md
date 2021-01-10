@@ -8,4 +8,4 @@ I started out as a self-taught programmer but eventually went to school to study
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pkassotis&show_icons=true&theme=synthwave)](https://github.com/pkassotis/github-readme-stats)
 ___
 
-[![https://hackernoon.com/u/pkassotis](https://i.imgur.com/E2CS4vI.png)](https://hackernoon.com/u/pkassotis) , [![https://www.buzzfeed.com/pkassotis](https://i.imgur.com/CTnBWJ1.png)](https://www.buzzfeed.com/pkassotis)
+[![https://hackernoon.com/u/pkassotis](https://i.imgur.com/E2CS4vI.png)](https://hackernoon.com/u/pkassotis) , [![https://www.buzzfeed.com/pkassotis](https://i.imgur.com/CTnBWJ1.png)](https://www.buzzfeed.com/pkassotis) , [![https://medium.com/@bearofleipzig](https://i.imgur.com/77eZuVV.png)](https://medium.com/@bearofleipzig)
