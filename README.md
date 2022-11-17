@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://plus.kassotis.com/wednesday-addiction-4)
+[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://plus.kassotis.com/wednesday-addiction)
 ___
 ### Specializing in tech and gaming content.
 
