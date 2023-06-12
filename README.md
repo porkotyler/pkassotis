@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://plus.kassotis.com/wednesday-addiction)
+[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://www.amazon.co.uk/The-Porkotyler-Show/dp/B0BX22K7B9)
 ___
 ### Specializing in tech and gaming content.
 
